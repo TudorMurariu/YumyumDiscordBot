@@ -4,6 +4,7 @@ const bot = new Discord.Client();
 const ytdl = require('ytdl-core');
 
 let TOKEN = "";
+const prefix = "Pls"
 
 const Persoane = ['Miha','Flavi','Nicu','Hanga','But','Mihaitza','Tudor',
 'Ioana',      'Gabi',     'Adi',   'Teodorescu' , 'Sorana',   'Irina', 
@@ -179,7 +180,7 @@ bot.on('message', msg =>
           break;
         case 'give':
           if(args[2] == 'banana')
-            msg.channel.send('Ma simt ca dupa coks',{files: ["TeoFericit.jpg"]});
+            msg.channel.send('Ma simt ca dupa cocs',{files: ["TeoFericit.jpg"]});
           break;
         case 'Barbut':
           if(cnt == 0)
@@ -312,8 +313,8 @@ bot.on('message', msg =>
           }
           break;
         ////////////////////////////////////////////////////////////////////// poza
-        case 'Mamaie':
-          msg.channel.send('-p o fut pe mamaie 10 min');
+        case 'smiley':
+          msg.channel.send('-p in lipsa mea'); 
           break;
         case 'deLaCinePrimeste':
           if(args[2] != msg.author.username)
