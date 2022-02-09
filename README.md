@@ -1,2 +1,3 @@
 # YumyumDiscordBot
-Discord bot with a hell tone of random stuff , dont even ask abt it 
+Discord bot with a hell tone of random stuff 
+it is just the code , without the picture used and without the node modules I have in my pc folder
