@@ -8,7 +8,7 @@ The bot is rly old and consists of the next games/uses:
 - secret santa but with pictures as well 
 - it can dm someoane whtever you tell him to (text)
 - it will react to every singel message sent with the duck emoji (of course only if you enable the command)(PROCEDURA RATA)
-- it has a voting system (made for one night when some of my friends were making an joke contest)
+- it has a voting system (made for one night when some of my friends were making a joke contest)
 - dice game(with dice pictures)
 - slotmachine game(with emojis)
 - he can enter and exit a voice chanel but he can't play anything yet
